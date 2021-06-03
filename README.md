@@ -6,4 +6,4 @@ The projects so far include:
 - Comma Code
 - My own list converter (not part of the book, just something I wanted to play around with).
 - A fantasy Game Inventory 
-- A list converter for the fantasy game inventory
+- A list to dictionary converter for the fantasy game inventory
