@@ -2,3 +2,4 @@ This is a repository of different little hobby projects inspired by Automate The
 The projects so far include: 
 - A rock paper scissors programme 
 - A Collatz Sequence 
+- A simpler Collatz Sequence
